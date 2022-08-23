@@ -6,7 +6,7 @@ body {
 .header-area{
     width: 100%;
     height: 700px;
-    background-image: url(images/donation0.jpg);
+    background-image: url(images/donation13.jpg);
     background-size: 100%;
     display: flex;
     justify-content: center;
@@ -16,7 +16,7 @@ body {
 }
 .header-text{
     width: 60%;
-    color: white;
+    color: rgb(249, 248, 243);
     text-align:center;
      
 }
@@ -31,6 +31,7 @@ body {
     
     font-size: 20px;
     margin-bottom: 0px;
+    font-weight: 600;
 }
 
 .btn{
@@ -181,7 +182,8 @@ body {
     background-color: #FF5959;
     width: 50%;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
+    font-weight: 600;
     border-radius: 5px;
    
 
@@ -193,6 +195,8 @@ body {
         height: 60px;
         margin-right: 20px;
         color: black;
+        font-weight: 800;
+        padding-left: 8px;
             
 }
 
@@ -202,10 +206,11 @@ body {
     height: 150px;
 }
 .footer-text{
-    color: white;
+    color: rgb(241, 20, 20);
     text-align: center;
     margin: 0;
     padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .footer-text  p{
